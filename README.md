@@ -1,4 +1,3 @@
 # testing
 
-first edit to readme
-new branch edit to readme
+Here is a merged and cleaned up version of the readme
